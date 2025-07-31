@@ -8,10 +8,6 @@ All visual art. No words.
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="200">
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tkoeda-csc&show_icons=true&theme=tokyonight&hide_title=true&hide_border=true&count_private=true&hide_rank=true"/>
 </p>
 
